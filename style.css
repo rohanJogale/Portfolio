@@ -283,4 +283,8 @@ footer {
     .projects-grid {
         grid-template-columns: 1fr;
     }
+
+    nav .btn{
+        font-size: .7rem;
+    }
 }
